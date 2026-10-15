@@ -1,0 +1,1 @@
+import{Vb as o,Wb as i,sb as n,vc as m}from"./chunk-4R2JZK7D.js";import"./chunk-J4XOFOAH.js";var s=(()=>{class e{static{this.\u0275fac=function(t){return new(t||e)}}static{this.\u0275cmp=n({type:e,selectors:[["app-payment-view"]],decls:2,vars:0,template:function(t,a){t&1&&(o(0,"p"),m(1,"payment-view works!"),i())},encapsulation:2})}}return e})();export{s as PaymentViewComponent};

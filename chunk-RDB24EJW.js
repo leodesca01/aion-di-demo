@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var e=[{path:"",loadComponent:()=>import("./chunk-VXNFTEIF.js").then(o=>o.IncoTermListComponent)},{path:"new",loadComponent:()=>import("./chunk-FJLUCARJ.js").then(o=>o.IncoTermCreateComponent)},{path:"view/:id",loadComponent:()=>import("./chunk-AP6FH2CX.js").then(o=>o.IncoTermViewComponent)}];export{e as default};

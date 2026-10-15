@@ -1,0 +1,1 @@
+var E={INTERNAL:"INTERNAL",EXTERNAL:"EXTERNAL"};export{E as a};

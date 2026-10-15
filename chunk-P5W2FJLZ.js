@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var t=[{path:"",loadComponent:()=>import("./chunk-536THTUN.js").then(o=>o.HolidaysListComponent)},{path:"view/:id",loadComponent:()=>import("./chunk-PL5435L6.js").then(o=>o.HolidaysViewComponent)}];export{t as default};

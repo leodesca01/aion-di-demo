@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var e=[{path:"",loadComponent:()=>import("./chunk-NQIS2RZY.js").then(n=>n.PendingFinanceListComponent)},{path:"view/:id",loadComponent:()=>import("./chunk-63SR3SUO.js").then(n=>n.PendingFinanceViewComponent)}];export{e as default};

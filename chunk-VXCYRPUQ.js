@@ -1,0 +1,1 @@
+import{mb as n,pa as r,vb as c}from"./chunk-4R2JZK7D.js";var f=(()=>{class t{constructor(e){this.injector=e}transform(e,i){return r.create({name:"DynamicPipe",parent:this.injector,providers:[{provide:i}]}).get(i).transform(e)}static{this.\u0275fac=function(i){return new(i||t)(n(r,16))}}static{this.\u0275pipe=c({name:"dynamicPipe",type:t,pure:!0})}}return t})();export{f as a};

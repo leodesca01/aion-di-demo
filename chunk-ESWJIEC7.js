@@ -1,0 +1,1 @@
+function o(e){return[e?.first_name,e?.last_name].filter(Boolean).join(" ")||e?.name||""}function i(e){return o(e).split(/\s+/).filter(Boolean).slice(0,2).map(t=>t.charAt(0)).join("").toUpperCase()||"?"}function r(e){return(e?.roles??[]).map(n=>typeof n=="string"?n:n?.role_name||n?.name||n?.role_slug).filter(Boolean).join(", ")}export{o as a,i as b,r as c};

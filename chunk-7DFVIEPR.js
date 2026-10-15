@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var o=[{path:"",loadComponent:()=>import("./chunk-55IH3V4L.js").then(t=>t.PaymentListComponent)},{path:"view/:id",loadComponent:()=>import("./chunk-MCQPMK7F.js").then(t=>t.PaymentViewComponent)}];export{o as default};

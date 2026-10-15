@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var t=[{path:"",loadComponent:()=>import("./chunk-7VV4F63R.js").then(e=>e.MessageCenterListComponent)},{path:":id",loadComponent:()=>import("./chunk-VOZ3OURT.js").then(e=>e.MessageCenterDetailComponent)}];export{t as default};

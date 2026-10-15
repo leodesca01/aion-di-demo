@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var t=[{path:"",loadComponent:()=>import("./chunk-JBXZSSMT.js").then(e=>e.PendingCustomerUserDatatableComponent)},{path:"view/:id",loadComponent:()=>import("./chunk-LLU55O23.js").then(e=>e.PendingCustomerUserViewComponent)}];export{t as default};

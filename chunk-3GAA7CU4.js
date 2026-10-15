@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var t=[{path:"",loadComponent:()=>import("./chunk-AXAERLJX.js").then(o=>o.ProfileSettingsComponent)},{path:"personal-details",loadComponent:()=>import("./chunk-U6SNCJPD.js").then(o=>o.PersonalDetailsComponent)}];export{t as default};

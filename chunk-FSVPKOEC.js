@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var t=[{path:":id",loadComponent:()=>import("./chunk-YKGOFPIQ.js").then(o=>o.ApplicationManagerListComponent)},{path:"view/:id/:productId",loadComponent:()=>import("./chunk-6O244FUH.js").then(o=>o.ApplicationManagerViewComponent)}];export{t as default};

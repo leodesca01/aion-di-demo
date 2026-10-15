@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var o=[{path:"",loadComponent:()=>import("./chunk-FKJ7N5PR.js").then(n=>n.PendingRegistrationHomeComponent)},{path:"view/:id",loadComponent:()=>import("./chunk-FQISPQNH.js").then(n=>n.PendingRegistrationViewComponent)}];export{o as PendingRegistrationRoutes};

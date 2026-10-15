@@ -1,0 +1,14 @@
+(function(window) {
+    window["env"] = window["env"] || {};
+
+    window["env"]["ENV_RBX_API_BASE_URL"] = ""
+    window["env"]["ENV_RBX_RM_API_BASE_URL"] = ""
+    window["env"]["ENV_RBX_APP_SECRETE"] = ""
+    window["env"]["ENV_RBX_CHANNEL_ID"] = ""
+    window["env"]["ENV_RBX_ADMIN_CHANNEL_ID"] = ""
+    window["env"]["ENV_RBX_TENANT_ID"] = ""
+    window["env"]["ENV_RBX_VIDEO_URL"] = ""
+    window["env"]["ENV_RBX_DASHBOARDS"] = "";
+    window["env"]["ENV_RBX_API_URL_PREFIX"] = ""
+
+  })(this);

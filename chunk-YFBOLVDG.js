@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var o=[{path:"",loadComponent:()=>import("./chunk-RSQ24X73.js").then(n=>n.BlogManagementListComponent)},{path:"new",loadComponent:()=>import("./chunk-2ITOCKL4.js").then(n=>n.BlogManagementNewComponent)},{path:"edit/:id",loadComponent:()=>import("./chunk-2ITOCKL4.js").then(n=>n.BlogManagementNewComponent)}];export{o as default};

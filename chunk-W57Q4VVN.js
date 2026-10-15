@@ -1,0 +1,1 @@
+var e={view:"view",edit:"edit",super:"super",create:"create",delete:"delete",reject:"reject",Submit:"Submit",verify:"verify",review:"review",approve:"approve",activate:"activate",initiate:"initiate",authorise:"authorise",deactivate:"deactivate",return:"return",document_review:"document-review"};export{e as a};

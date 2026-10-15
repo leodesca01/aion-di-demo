@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var e=[{path:"",loadComponent:()=>import("./chunk-4AJMKU6C.js").then(t=>t.PendingCorporateRegistrationDatatableComponent)},{path:"view/:id",loadComponent:()=>import("./chunk-QMPRRRCL.js").then(t=>t.PendingCorporateRegisterViewComponent)}];export{e as default};

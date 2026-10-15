@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var n=[{path:"",loadComponent:()=>import("./chunk-4W27HNTQ.js").then(t=>t.MerchantsListComponent)},{path:"view/:id",loadComponent:()=>import("./chunk-2FFGPOAG.js").then(t=>t.MerchantsViewComponent)},{path:"new",loadComponent:()=>import("./chunk-TVW4OFO5.js").then(t=>t.MerchantsNewComponent)}];export{n as default};

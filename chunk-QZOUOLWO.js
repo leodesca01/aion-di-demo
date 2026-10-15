@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var n=[{path:"",loadComponent:()=>import("./chunk-DQVMT77N.js").then(e=>e.ClauseMaintenanceListComponent)},{path:"create",loadComponent:()=>import("./chunk-UHI5ICCC.js").then(e=>e.ClauseMaintenanceCreateComponent)},{path:"view/:id",loadComponent:()=>import("./chunk-Y24RW6DG.js").then(e=>e.ClauseMaintenanceViewComponent)}];export{n as default};

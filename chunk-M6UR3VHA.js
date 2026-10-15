@@ -1,0 +1,1 @@
+import"./chunk-J4XOFOAH.js";var t=[{path:"",loadComponent:()=>import("./chunk-MAXVKDLK.js").then(o=>o.RolesListComponent)},{path:"edit/:id",loadComponent:()=>import("./chunk-SZTEHHD3.js").then(o=>o.RolesNewComponent)},{path:"create",loadComponent:()=>import("./chunk-SZTEHHD3.js").then(o=>o.RolesNewComponent)}];export{t as default};
